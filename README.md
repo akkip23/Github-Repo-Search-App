@@ -19,7 +19,7 @@ This ReactJS application is designed to interact with the Github API to search a
   - Name
   - Created At
   - Updated At
-    **Search Field:** View The repositories by clicking on the View Repo Button
+- **Search Field:** View The repositories by clicking on the View Repo Button
 
 ## Setup Instructions
 
